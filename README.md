@@ -26,11 +26,11 @@ Users should be able to:
 
 Desktop
 
-![./images/screenshot.jpg](./screenshot.jpg)
+![images/screenshot.JPG](./screenshot.jpg)
 
 Mobile
 
-![./images/mobile-screenshot.jpg](./screenshot.jpg)
+![images/mobile-screenshot.jpg](./screenshot.jpg)
 
 ### Links
 
