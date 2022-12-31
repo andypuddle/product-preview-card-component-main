@@ -26,7 +26,7 @@ Users should be able to:
 
 Desktop
 
-![]{https://raw.githubusercontent.com/andypuddle/product-preview-card-component-main/master/images/screenshot.JPG)
+![](https://raw.githubusercontent.com/andypuddle/product-preview-card-component-main/master/images/screenshot.JPG)
 
 Mobile
 
