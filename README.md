@@ -26,11 +26,11 @@ Users should be able to:
 
 Desktop
 
-![images/screenshot.JPG](./screenshot.jpg)
+![https://github.com/andypuddle/product-preview-card-component-main/blob/master/images/screenshot.JPG?raw=true](./screenshot.jpg)
 
 Mobile
 
-![images/mobile-screenshot.jpg](./screenshot.jpg)
+![https://github.com/andypuddle/product-preview-card-component-main/blob/master/images/mobile-screenshot.JPG?raw=true](./screenshot.jpg)
 
 ### Links
 
