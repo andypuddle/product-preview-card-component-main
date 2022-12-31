@@ -34,7 +34,7 @@ Mobile
 
 ### Links
 
-- Solution URL: [Repositories](https://github.com/andypuddle/product-preview-card-component-main)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-TtSPLhRjHu)
 - Live Site URL: [github pages live site](https://andypuddle.github.io/product-preview-card-component-main/)
 
 ### Built with
