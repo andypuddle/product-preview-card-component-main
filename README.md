@@ -34,8 +34,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [https://github.com/andypuddle/product-preview-card-component-main](https://your-solution-url.com/)
-- Live Site URL: [https://andypuddle.github.io/product-preview-card-component-main/](https://your-live-site-url.com/)
+- Solution URL: [Repositories](https://github.com/andypuddle/product-preview-card-component-main)
+- Live Site URL: [github pages live site](https://andypuddle.github.io/product-preview-card-component-main/)
 
 ### Built with
 
